@@ -747,38 +747,3 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
-
-.containerBox {
-  display: flex;
-  justify-content: space-between;
-  /* align-items: center; */
-  width: 1000px;
-  padding: 50px;
-  margin-left: 200px;
-}
-
-.education-timeline {
-  margin-top: 40px;
-}
-
-.education-item {
-  position: relative;
-  padding: 20px 40px;
-  border-left: 2px solid #6c63ff;
-  margin-bottom: 40px;
-}
-
-.education-content {
-  margin-left: 20px;
-}
-
-.education-content h3 {
-  font-size: 1.8rem;
-  margin-bottom: 10px;
-}
-
-.education-content p {
-  margin-bottom: 0;
-  color: #888;
-  font-size: 1.3rem;
-}

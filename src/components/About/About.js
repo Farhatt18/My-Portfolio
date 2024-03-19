@@ -42,26 +42,33 @@ function About() {
         <br />
         <br />
         <br />
+        <Row style={{ justifyContent: "center", padding: "10px" }}>
+          <Col md={12}>
+            {/* <div className="containerBox"> */}
+            <div>
+              <h1 className="project-heading">
+                Education
+                <strong className="purple"> Timeline </strong>
+              </h1>
 
-        <div className="containerBox">
-          <div>
-            <h1 className="project-heading">
-              Education
-              <strong className="purple"> Timeline </strong>
-            </h1>
+              <Education />
+            </div>
+          </Col>
+        </Row>
 
-            <Education />
-          </div>
+        <Row style={{ justifyContent: "center", padding: "10px" }}>
+          <Col md={12}>
+            <div>
+              <h1 className="project-heading">
+                Experience
+                <strong className="purple"> Timeline </strong>
+              </h1>
 
-          <div>
-            <h1 className="project-heading">
-              Experience
-              <strong className="purple"> Timeline </strong>
-            </h1>
-
-            <Experience />
-          </div>
-        </div>
+              <Experience />
+            </div>
+          </Col>
+          {/* </div> */}
+        </Row>
 
         <h1 className="project-heading">
           Professional <strong className="purple">Skillset </strong>
