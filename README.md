@@ -2,6 +2,9 @@
   Portfolio Website - v2.0<br/>
   <a href="https://farhat-portfolio1.netlify.app/" target="_blank">Farhat-portfolio</a>
 </h2>
+
+![preview](./src/Assets/Preview.gif)
+
 <!-- <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
 </div> -->
