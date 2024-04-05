@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio Website<br/>
   <a href="https://farhat-portfolio1.netlify.app/" target="_blank">Farhat-portfolio</a>
 </h2>
  <div align="center">
