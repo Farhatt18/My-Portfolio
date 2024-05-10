@@ -5,8 +5,7 @@
  <div align="center">
  
  ![preview](./src/Assets/Preview.gif)
-</div> 
-  <!-- <img alt="Demo" src="./Images/readme-img1.png" /> -->
+</div>
 
 <br/>
 
