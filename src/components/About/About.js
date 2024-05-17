@@ -1,7 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
-// import Github from "./Github";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import Education from "./Education";
@@ -43,7 +42,6 @@ function About() {
         <br />
         <Row style={{ justifyContent: "center", padding: "10px" }}>
           <Col md={12}>
-            {/* <div className="containerBox"> */}
             <div>
               <h1 className="project-heading">
                 Education
