@@ -67,7 +67,6 @@ function About() {
               <Experience />
             </div>
           </Col>
-          {/* </div> */}
         </Row>
 
         <h1 className="project-heading">
@@ -75,10 +74,6 @@ function About() {
         </h1>
 
         <Techstack />
-
-        {/* <Toolstack /> */}
-
-        {/* <Github /> */}
       </Container>
     </Container>
   );
