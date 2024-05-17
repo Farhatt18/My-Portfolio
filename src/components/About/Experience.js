@@ -8,10 +8,6 @@ function Experience() {
           <h3>Tax Intern</h3>
           <p>UHY | New YorK, NY</p>
           <p>01/2023 - 04/2023</p>
-          {/* <p>
-            Prepared tax returns for clients and used excel to keep track of
-            data
-          </p> */}
         </div>
       </div>
       <div className="education-item">
