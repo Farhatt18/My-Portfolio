@@ -7,7 +7,6 @@ import Aboutcard from "./AboutCard";
 import Education from "./Education";
 import Experience from "./Experience";
 import laptopImg from "../../Assets/avatar2.png";
-// import Toolstack from "./Toolstack";
 
 function About() {
   return (
